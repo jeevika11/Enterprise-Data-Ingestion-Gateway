@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+redis
+prometheus-client
+psutil
+requests
